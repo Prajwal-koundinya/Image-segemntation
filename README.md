@@ -31,7 +31,7 @@ Below are sample visualizations from the clustering-based segmentation:
 
 ### Original Image
 
-![Original Image](![image](https://github.com/user-attachments/assets/e9796c40-a930-47f5-8984-c0a8f55cd1b3)
+![Original Image](https://github.com/user-attachments/assets/e9796c40-a930-47f5-8984-c0a8f55cd1b3)
 )  
 *A raw image before clustering is applied.*
 
