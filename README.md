@@ -87,7 +87,8 @@ pip install -r requirements.txt
 
 | Input Image | Segmented Image |
 |-------------------------------|
-| ![Input](link-to-input-image.png) | ![Output](link-to-output-image.png) |
+| ![Input - Output](https://github.com/user-attachments/assets/f2a8ce6e-2fa0-4dca-81a2-665e52282193)
+) |
 
 ---
 
