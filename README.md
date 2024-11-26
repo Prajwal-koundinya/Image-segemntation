@@ -29,16 +29,12 @@ This repository contains a Python notebook for performing **image segmentation**
 
 Below are sample visualizations from the clustering-based segmentation:
 
-### Original Image
+### Original Image vs Segmented Output (K-Means Clustering)
+
 
 ![Original Image](https://github.com/user-attachments/assets/e9796c40-a930-47f5-8984-c0a8f55cd1b3)
 )  
 *A raw image before clustering is applied.*
-
-### Segmented Output (K-Means Clustering)
-
-![Clustered Image](link-to-clustered-image.png)  
-*Visualization of segmented clusters using K-Means.*
 
 ---
 
@@ -90,7 +86,7 @@ pip install -r requirements.txt
 ### Input vs Output
 
 | Input Image | Segmented Image |
-|-------------|-----------------|
+|-------------------------------|
 | ![Input](link-to-input-image.png) | ![Output](link-to-output-image.png) |
 
 ---
