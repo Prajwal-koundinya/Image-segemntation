@@ -33,7 +33,7 @@ Below are sample visualizations from the clustering-based segmentation:
 
 
 ![Original Image](https://github.com/user-attachments/assets/e9796c40-a930-47f5-8984-c0a8f55cd1b3)
-)  
+
 *A raw image before clustering is applied.*
 
 ---
@@ -86,9 +86,9 @@ pip install -r requirements.txt
 ### Input vs Output
 
 | Input Image | Segmented Image |
-|-------------------------------|
+|-------------------------------------------------------------------------------------------|
 | ![Input - Output](https://github.com/user-attachments/assets/f2a8ce6e-2fa0-4dca-81a2-665e52282193)
-) |
+
 
 ---
 
