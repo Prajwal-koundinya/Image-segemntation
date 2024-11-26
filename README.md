@@ -31,7 +31,8 @@ Below are sample visualizations from the clustering-based segmentation:
 
 ### Original Image
 
-![Original Image](link-to-original-image.png)  
+![Original Image](![image](https://github.com/user-attachments/assets/e9796c40-a930-47f5-8984-c0a8f55cd1b3)
+)  
 *A raw image before clustering is applied.*
 
 ### Segmented Output (K-Means Clustering)
