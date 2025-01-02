@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ### Input vs Output
 
-|------------------- Input Image ------------------|---------------- Foreground Mask ---------------|------------- Extracted Foreground -------------|
+|---------------- Input Image ---------------|------------- Foreground Mask -------------|------------ Extracted Foreground ------------|
  ![Input - Output](https://github.com/user-attachments/assets/f2a8ce6e-2fa0-4dca-81a2-665e52282193)
 
 
