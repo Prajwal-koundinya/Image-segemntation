@@ -4,7 +4,7 @@
 
 ### 📄 Description
 
-This repository contains a Python notebook for performing **image segmentation** using clustering techniques. The approach leverages unsupervised learning methods to group pixels into clusters, facilitating tasks such as object identification and background separation in images. The code is designed for simplicity and extensibility, allowing both beginners and experts to adapt it to their needs.
+This repository contains a Python notebook for performing **Image segmentation** using clustering techniques. The approach leverages unsupervised learning methods to group pixels into clusters, facilitating tasks such as object identification and background separation in images. The code is designed for simplicity and extensibility, allowing both beginners and experts to adapt it to their needs.
 
 ---
 
